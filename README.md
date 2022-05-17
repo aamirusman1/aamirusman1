@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Aamir Bin Usman
-- I have more than 6 months of experience in the field of web development using technologies like HTML, CSS, Bootstrap, JavaScript, Node.JS, and MongoDB
+- Hi, I’m Aamir Bin Usman
+- I have done my graduation in Computer Science and Engineering
 - My programming language skills are in Core Java and JavaScript.
-- I’m currently learning ReactJS
+- I have done internships and made projects in the field of web development using MERN Stack.
 - I am looking to get an opportunity in the field of software development.
 - 📫 You can reach me through aamirc2856@gmail.com
 
