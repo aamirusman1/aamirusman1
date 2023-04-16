@@ -1,8 +1,5 @@
 - Hi, I’m Aamir Bin Usman
-- I have done my graduation in Computer Science and Engineering
-- My programming language skills are in Core Java and JavaScript.
-- I have done internships and made projects in web development.
-- I am looking to get an opportunity in the field of software development.
+- I am Computer Science graduate and skilled in Java Stack and Web Development.
 - 📫 You can reach me through aamirc2856@gmail.com
 
 <!---
