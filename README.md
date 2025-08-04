@@ -1,5 +1,5 @@
 - Hi, I’m Aamir Bin Usman
-- I am Computer Science graduate and skilled in Java Stack and Web Development.
+- I am Computer Science graduate and skilled in Java, Javascript, React and IBM WebMethods.
 - 📫 You can reach me through aamirc2856@gmail.com
 
 <!---
